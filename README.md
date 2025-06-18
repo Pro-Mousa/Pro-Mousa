@@ -3,6 +3,7 @@ About Me:
 An entry-level Junior Developer with experience in developing both static and dynamic websites with API integrations mostly Mpesa API.
 
 Work:
+
 Currently, I'm working on dynamic websites both frontend and backend development.
 
 🌐 Socials:
