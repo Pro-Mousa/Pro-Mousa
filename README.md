@@ -35,7 +35,7 @@ Currently, I'm working on dynamic websites both frontend and backend development
    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
 
-Github Stats:
+📊Github Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pro-mousa1&show_icons=true&locale=en&layout=compact" alt="pro-mousa1" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pro-mousa1&show_icons=true&locale=en" alt="pro-mousa1" /></p>
