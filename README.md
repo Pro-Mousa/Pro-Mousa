@@ -1,6 +1,6 @@
 <!-- Banner (Optional) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF4500,100:FFFF00&section=header&text=MousaCode&fontSize=55&fontColor=ffffff&desc=Full-Stack%20Developer&descSize=25&descAlignY=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF4500,100:FFFF00&section=header&text=Mousa Code&fontSize=55&fontColor=ffffff&desc=Full-Stack%20Developer&descSize=25&descAlignY=80" alt="header" />
 </p>
 
 <p align="center">
