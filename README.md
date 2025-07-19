@@ -1,31 +1,76 @@
-About Me:
-
-An entry-level Junior Developer.
-
-Work:
-
-Currently, I'm working on dynamic websites both frontend and backend development.
-
-🌐 Socials:
-   <p align="left">
-<a href="https://linkedin.com/in/mousa-muigai-a23b8b2a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mousa-muigai-a23b8b2a9" height="30" width="40" /></a>
+<!-- Banner (Optional) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF4500,100:FFFF00&section=header&text=EchoZero&fontSize=55&fontColor=ffffff&desc=Full-Stack%20Developer&descSize=25&descAlignY=60" alt="header" />
 </p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="center">
+  <b>🚀 Launching Dreams into Code</b><br>
+  <i>"Turning ideas into reality through code."</i>
+</p>
 
-<p align="left"> 
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-   </p>
+---
 
-📊Github Stats:
+<h2 style="color:#ff5733;">👨‍💻 About Me</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pro-mousa&show_icons=true&locale=en&layout=compact" alt="pro-mousa" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pro-mousa&show_icons=true&locale=en" alt="pro-mousa" /></p>
+- 🔭 Currently working on **dynamic websites** – both frontend and backend.  
+- 🌱 Actively learning **React.js**, **Node.js**, and **DevOps practices**.  
+- 💬 Ask me about **JavaScript, Java, Python**, or **MySQL**.  
+- 📍 Based in Nairobi, Kenya  
+
+---
+
+<h2 style="color:#ffa500;">🌐 Connect with Me</h2>
+
+<p align="left">
+  <a href="https://linkedin.com/in/mousa-muigai-a23b8b2a9" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+</p>
+
+---
+
+<h2 style="color:#4CAF50;">🛠️ My Tech Stack</h2>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+</p>
+
+---
+
+<h2 style="color:#008B8B;">🌟 Featured Skills</h2>
+
+- 💡 Innovative Thinking with Code  
+- 🔐 Cybersecurity Principles & Ethical Hacking  
+- 🧠 Problem Solver & Debugging Pro  
+- 🎨 UI/UX Design Approach  
+- 🛠️ Rapid Prototyping with Modern Stacks  
+
+---
+
+<h2 style="color:#9932CC;">📈 GitHub Stats</h2>
+
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pro-Mousa&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=Pro-Mousa&theme=dark" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pro-Mousa&layout=compact&theme=github_dark" alt="Top Languages" height="180" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF4500,100:FFFF00&section=footer" alt="footer" />
+</p>
