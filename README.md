@@ -40,7 +40,7 @@
 
 ---
 
-<h2 style="color:#4CAF50;">🛠️ My Tech Stack</h2>
+<h2 style="color:#4CAF50;">🛠️ Languages and Tools</h2>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
