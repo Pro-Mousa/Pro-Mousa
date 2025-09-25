@@ -17,8 +17,8 @@
 - 🔌 Develop robust backend systems with Node.js and Express
 - 🛡️ Practice ethical hacking & vulnerability assessment
 - 🔍 Debug and optimize performance-critical applications
-- 📊 Design and manage relational databases (MySQL, SQLite)
-- 🌱 Actively learning **React.js**, **Node.js**, and **DevOps practices**.  
+- 📊 Design and manage relational databases (MySQL)
+- 🌱 Actively learning **React.js** and **Node.js**.  
 - 💬 Ask me about **JavaScript, Java, Python** or **MySQL**. 
 - 📍 Based in Nairobi, Kenya
 
@@ -26,14 +26,13 @@
 
 <h2 style="color:#DAA520;">🎓 Certifications & Courses</h2>
 - ✅ Full Stack Web Development<br>
-- 📚 Currently learning: Algorithms and systems engineering technology.
 
 ---
 
 <h2 style="color:#ffa500;">🌐 Socials: </h2>
 
 <p align="left">
-  <a href="https://linkedin.com/in/mousa-muigai-a23b8b2a9" target="blank">
+  <a href="https://linkedin.com/in/mousa-muigai" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
