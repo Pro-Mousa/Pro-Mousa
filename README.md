@@ -1,4 +1,4 @@
-<!-- Banner (Optional) -->
+<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF4500,100:FFFF00&section=header&text=MousaCode&fontSize=55&fontColor=ffffff&desc=Full-Stack%20Developer&descSize=25&descAlignY=65" alt="header" />
 </p>
@@ -12,75 +12,71 @@
 
 <h2 style="color:#ff5733;">👨‍💻 About Me</h2>
 
-
-- 🔭 Build responsive websites using modern web technologies (HTML5, CSS3, JavaScript, React)
-- 🔌 Develop robust backend systems with Node.js and Express
-- 🛡️ Practice ethical hacking & vulnerability assessment
-- 🔍 Debug and optimize performance-critical applications
-- 📊 Design and manage relational databases (MySQL)
-- 🌱 Actively learning **React.js** and **Node.js**.  
-- 💬 Ask me about **JavaScript, Java, Python** or **MySQL**. 
-- 📍 Based in Nairobi, Kenya
-
----
-
-<h2 style="color:#DAA520;">🎓 Certifications & Courses</h2>
-- ✅ Full Stack Web Development<br>
-
----
-
-<h2 style="color:#ffa500;">🌐 Socials: </h2>
-
-<p align="left">
-  <a href="https://linkedin.com/in/mousa-muigai" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
+<div align="left">
+  <p>
+  I am a Junior Software Developer specializing in designing and developing reliable, scalable software systems based on user and business requirements.
+  I prioritize clean architecture, maintainable code, and continuous learning through real-world projects.
 </p>
 
----
+  <ul>
+  <li><strong>Frontend:</strong> HTML, CSS, JavaScript, React</li>
+  <li><strong>Backend:</strong> Node.js (Express), Kotlin (Android)</li>
+  <li><strong>Databases:</strong> MySQL, MongoDB, Firebase</li>
+  <li><strong>Tools & Technologies:</strong> Git, GitHub, Android Studio, REST APIs</li>
+  <li><strong>Areas of Interest:</strong> Web Development, Mobile Applications, System Design, Cybersecurity</li>
+  <li><strong>Collaboration:</strong> Open to internships, open-source contributions, and team-based projects</li>
+  <li><strong>Currently Learning:</strong> Linux Systems, Networking, Ethical Hacking</li>
+  <li><strong>Development Focus:</strong> Clean architecture, performance, and user-centered design</li>
+  <li><strong>Connect with me:</strong> 
+    <a href="https://www.linkedin.com/in/mousa-muigai/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </li>
+  <li><strong>Location:</strong> Nairobi, Kenya</li>
+</ul>
 
-<h2 style="color:#4CAF50;">🛠️ Languages and Tools</h2>
+</div>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-</p>
 
----
+<h2>🚀 What I Build</h2>
+<ul>
+  <li>Web Applications</li>
+  <li>Mobile Applications</li>
+  <li>Backend Systems</li>
+</ul>
 
-<h2 style="color:#008B8B;">🌟 Featured Skills</h2>
+<h2 style="color:#4CAF50;">🛠️ Tech Stack</h2>
 
-- 💡 Innovative Thinking with Code  
-- 🔐 Cybersecurity Principles & Ethical Hacking  
-- 🧠 Problem Solver & Debugging Pro  
-- 🎨 UI/UX Design Approach  
-- 🛠️ Rapid Prototyping with Modern Stacks  
+<!-- Tech Stack -->
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,kotlin,python,c,cpp,cs,mysql,mongodb,linux,git,github&perline=8" alt="Tech Stack"/>
+</div>
+
+
 
 <h2 style="color:#9932CC;">📈 GitHub Stats</h2>
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pro-Mousa&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=Pro-Mousa&theme=dark" alt="GitHub Streak" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pro-Mousa&layout=compact&theme=github_dark" alt="Top Languages" height="180" />
-</div>
+<!-- Contribution Stats -->
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Pro-Mousa&theme=dark&background=000000" width="600" alt="GitHub Streak"/>
+</p>
+
+<!-- Languages Bar -->
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Mousa&layout=compact&theme=tokyonight"/>
+</p>
+
+
+<!-- Quotes -->
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote">
 </p>
+
+<!-- Color Waving -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF4500,100:FFFF00&section=footer" alt="footer" />
