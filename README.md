@@ -65,9 +65,8 @@
 
 <!-- Languages Bar -->
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Mousa&layout=compact&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pro-Mousa&layout=compact&theme=tokyonight&hide_border=true" width="600" alt="Top Languages"/>
+
 
 
 <!-- Quotes -->
