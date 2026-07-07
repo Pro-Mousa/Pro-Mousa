@@ -21,14 +21,13 @@
   <li><strong>Backend:</strong> Node.js, Express</li>
   <li><strong>Databases:</strong> MySQL, MongoDB, Firebase</li>
   <li><strong>Tools:</strong> Git, Docker, Kubernetes, Linux</li>
-  <li><strong>Interests:</strong> Web Development, Mobile Applications, Cyber Security</li>
-  <li><strong>Collaboration:</strong> Open to internships, open-source contributions, and team-based projects</li>
+  <li><strong>Interests:</strong> Web Dev, Mobile Apps, Pentesting</li>
+  <li><strong>Collaboration:</strong> Open to internships and team-based projects</li>
   <li><strong>Connect with me:</strong> 
     <a href="https://www.linkedin.com/in/mousa-muigai/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </li>
-  <li><strong>Location:</strong> Nairobi, Kenya</li>
 </ul>
 
 </div>
