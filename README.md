@@ -18,12 +18,11 @@
 
   <ul>
   <li><strong>Frontend:</strong> HTML, CSS, JavaScript, React</li>
-  <li><strong>Backend:</strong> Node.js (Express), Kotlin (Android)</li>
+  <li><strong>Backend:</strong> Node.js, Express</li>
   <li><strong>Databases:</strong> MySQL, MongoDB, Firebase</li>
-  <li><strong>Interests:</strong> Web Development, Mobile Applications, System Design, Cybersecurity</li>
+  <li><strong>Tools:</strong> Git, Docker, Kubernetes, Linux</li>
+  <li><strong>Interests:</strong> Web Development, Mobile Applications, Cyber Security</li>
   <li><strong>Collaboration:</strong> Open to internships, open-source contributions, and team-based projects</li>
-  <li><strong>Currently Learning:</strong> Linux Systems, Networking, Ethical Hacking</li>
-  <li><strong>Development Focus:</strong> Clean architecture, performance, and user-centered design</li>
   <li><strong>Connect with me:</strong> 
     <a href="https://www.linkedin.com/in/mousa-muigai/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -33,14 +32,6 @@
 </ul>
 
 </div>
-
-
-<h2>🚀 What I Build</h2>
-<ul>
-  <li>Web Applications</li>
-  <li>Mobile Applications</li>
-  <li>Backend Systems</li>
-</ul>
 
 <h2 style="color:#4CAF50;">🛠️ Tech Stack</h2>
 
