@@ -18,8 +18,8 @@
 
   <ul>
   <li><strong>Frontend:</strong> HTML, CSS, JavaScript, React</li>
-  <li><strong>Backend:</strong> Node.js, Express</li>
-  <li><strong>Databases:</strong> MySQL, MongoDB, Firebase</li>
+  <li><strong>Backend:</strong> Node.js, Express.js, Prisma</li>
+  <li><strong>Databases:</strong> Firebase, MongoDB, MySQL, PostgreSQL</li>
   <li><strong>Tools:</strong> Git, Docker, Kubernetes, Linux</li>
   <li><strong>Interests:</strong> Web Dev, Mobile Apps, Pentesting</li>
   <li><strong>Collaboration:</strong> Open to internships and team-based projects</li>
